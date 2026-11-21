@@ -1,0 +1,9 @@
+{
+  "heat_c": 35.0,
+  "cold_c": -10.0,
+  "heavy_rain_mm": 50.0,
+  "min_obs_per_year": 5,
+  "min_obs_per_season": 2,
+  "min_years_for_ranking": 1,
+  "weights": {"heat": 0.4, "cold": 0.35, "rain": 0.25}
+}
